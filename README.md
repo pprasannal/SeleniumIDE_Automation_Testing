@@ -13,7 +13,8 @@ Petclinic is a Spring Boot application built using Maven or Gradle. we can build
 1) git clone https://github.com/spring-projects/spring-petclinic.git
 2) cd spring-petclinic
 3) ./mvnw package
-4) java -jar target/*.jar
+4) java -jar target/*.jar.
+
 You can then access petclinic here: http://localhost:8080/
 
 Test Cases :
