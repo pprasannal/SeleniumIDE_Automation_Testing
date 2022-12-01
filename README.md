@@ -10,10 +10,10 @@ we should at least be familiar with HTML, JavaScript, and the DOM (Document Obje
 SAMPLE APPLICATION : 
 Spring PetClinic Application (https://github.com/spring-projects/spring-petclinic)
 Petclinic is a Spring Boot application built using Maven or Gradle. we can build a jar file and run it from the command line (it work just as well with Java 11 or newer):
-git clone https://github.com/spring-projects/spring-petclinic.git
-cd spring-petclinic
-./mvnw package
-java -jar target/*.jar
+> git clone https://github.com/spring-projects/spring-petclinic.git
+> cd spring-petclinic
+> ./mvnw package
+> java -jar target/*.jar
 You can then access petclinic here: http://localhost:8080/
 
 Test Cases:
